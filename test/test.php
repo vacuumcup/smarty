@@ -43,7 +43,7 @@
 // 	}
 // 	$smarty->registerPlugin('function', 'f_test', 'test');
 
-	$smarty->assign('str','Hello，my name is fujingchang。How are you?');
+	$smarty->assign('str','Hello，My name is fujingchang。How are you?');
 	$smarty->display('content.tpl');
 
 ?>
